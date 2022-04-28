@@ -1,9 +1,11 @@
 <template>
-  <div>AboutPage Component</div>
+  <div>
+    <h1>AboutPage Component</h1>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'AboutPage',
+  name: 'AboutComponent',
 }
 </script>
