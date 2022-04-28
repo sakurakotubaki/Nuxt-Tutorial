@@ -3,6 +3,7 @@
     <div class="one"><NuxtLink to="/about">About Page</NuxtLink></div>
     <div class="two"><NuxtLink to="/info">Info Page</NuxtLink></div>
     <div class="three"><NuxtLink to="/http">HTTP Page</NuxtLink></div>
+    <div class="four"><NuxtLink to="/async">Async Page</NuxtLink></div>
   </div>
 </template>
 
